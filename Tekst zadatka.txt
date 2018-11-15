@@ -1,0 +1,4 @@
+Kreirati klasu u kojoj se modeluju kompleksni brojevi, klasa treba da ima odredjene konstruktore, mutatore, itd..
+Kreirati testnu klasu u cijoj funkciji main cete demonstrirati upotrebu metoda prethodne klase kao I ucitati niz kompleksnih brojeva I odrediti maksimalni elemenat u datom nizu. Kompleksne brojeve porediti po modulu.
+//
+Kompleksni broj : z=x+iy (imaginarni broj), svaki kompleksni broj se sastoji od 2 dijela, x je realni dio kompleksnog broja, y je imaginarni dio kompleksnog broja, moramo da napravimo klasu koja modeluje taj kompleksni broj
